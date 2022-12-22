@@ -1,3 +1,3 @@
-Ayo I do shit in haxe because its the only coding language I know
+Ayo I do shit in haxe (and C#) because its the only coding languages I know
 
 Yeah thats about it :)
