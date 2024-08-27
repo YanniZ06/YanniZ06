@@ -1,6 +1,6 @@
 # Actual README whenever 
 ### Hello!!
-I'm Yanni, a 17 y/o Highschool student with roughly 3 years of experience!
+I'm Yanni, an 18 y/o Highschool student with roughly 3 years of experience!
 Most experienced with the Haxe programming language, properly learning C & C++ aswell.
 I do programming solely as a hobby as of now, my biggest project being a general purpose framework named Myztic (check it out!)
 
